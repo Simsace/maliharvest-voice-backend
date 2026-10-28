@@ -1,0 +1,4 @@
+maliba-ai==1.1.1b0
+fastapi
+uvicorn
+pydantic
